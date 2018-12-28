@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>SessionTen</name>
+	<comment></comment>
+	<projects>
+		<project>18Summer120918</project>
+		<project>APcalc</project>
+		<project>com.newtoursdemoaut</project>
+		<project>ExternalFiles</project>
+		<project>HandlePopUps</project>
+		<project>HelloWorld</project>
+		<project>methodOverloadingOverriding</project>
+		<project>mouseHoverAction</project>
+		<project>PageModelObject</project>
+		<project>practiceJava</project>
+		<project>RandomNumberGenerator</project>
+		<project>RemoteSystemsTempFiles</project>
+		<project>Selenium</project>
+		<project>SeleniumPractice</project>
+		<project>SessionEight</project>
+		<project>SessionFive</project>
+		<project>SessionFour</project>
+		<project>SessionNine</project>
+		<project>SessionSeven</project>
+		<project>SessionSix</project>
+		<project>SessionThree</project>
+		<project>SessionTwo</project>
+		<project>TechfiosHybridFramework</project>
+		<project>WeightWatchers</project>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+</projectDescription>
